@@ -9,4 +9,4 @@ this is a demo repo for sharing ideas around communications
  * three
 
  ### Gist
- this is a good example of [My Code](<script src="https://gist.github.com/MoAccount01/f07c9410ac47ac2ee0dccebc4715a3fb.js"></script>)
+ this is a good example of [My Code](https://gist.github.com/MoAccount01/f07c9410ac47ac2ee0dccebc4715a3fb)
